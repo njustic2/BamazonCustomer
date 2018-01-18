@@ -15,8 +15,6 @@ CREATE TABLE products (
 
 SELECT * FROM products;
 
-INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES
 
 1,Big Trouble In Little China,Movies,9.99,31
 2,Cloud Cult: Advice from the happy hippo,Music Albums,14.99,84

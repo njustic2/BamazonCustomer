@@ -1,0 +1,24 @@
+{
+  "name": "bamazoncustomer",
+  "version": "1.0.0",
+  "description": "An application like amazon called bamazon",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^3.2.1",
+    "mysql": "^2.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njustic2/BamazonCustomer.git"
+  },
+  "author": "Nathan Justice",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/njustic2/BamazonCustomer/issues"
+  },
+  "homepage": "https://github.com/njustic2/BamazonCustomer#readme"
+}
